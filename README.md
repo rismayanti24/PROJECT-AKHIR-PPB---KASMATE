@@ -3,8 +3,6 @@
 Aplikasi pengelola uang bersama untuk grup (anak kos, teman nongkrong, organisasi, trip). Membantu membagi tagihan dengan adil dan menagih teman tanpa canggung.
 
 Proyek akhir mata kuliah Pemrograman Perangkat Bergerak.
-Dosen pengampu: [nama dosen]
-Kelas: [kelas]
 
 ## Latar Belakang
 

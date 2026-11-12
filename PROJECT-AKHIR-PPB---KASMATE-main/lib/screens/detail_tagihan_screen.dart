@@ -40,7 +40,8 @@ class DetailTagihanScreen extends StatelessWidget {
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 12),
-            const ItemStrukCard(namaBarang: 'Makan Siang Bersama', harga: 100000),
+            const ItemStrukCard(
+                namaBarang: 'Makan Siang Bersama', harga: 100000),
             const ItemStrukCard(namaBarang: 'Minuman & Snack', harga: 50000),
             const SizedBox(height: 24),
             SizedBox(

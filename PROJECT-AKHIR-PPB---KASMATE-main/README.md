@@ -44,10 +44,10 @@ Fitur tambahan:
 ## Status Pengembangan
 
 - [x] Widget dasar (status tagihan)
-- [ ] Model data dan data dummy
-- [ ] Widget lengkap dan halaman Dashboard, Riwayat, Split Bill
-- [ ] Alur inti dua peran (dummy)
-- [ ] Tagih via WhatsApp
+- [x] Model data dan data dummy
+- [x] Widget lengkap dan halaman Dashboard, Riwayat, Split Bill
+- [x] Alur inti dua peran (dummy)
+- [x] Tagih via WhatsApp
 - [ ] Firebase (login, grup, data real-time)
 - [ ] Scan struk (OCR)
 - [ ] Fitur tambahan
